@@ -16,4 +16,4 @@ set guifont=FiraCode
 set term=screen-256color
 
 " colorscheme
-colorscheme molokai
+"colorscheme molokai

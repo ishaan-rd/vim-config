@@ -23,4 +23,7 @@
   :q
   ```
 
+* Open the ~/.vimrc file again and uncomment the ```colorscheme molokai``` line
+by removing the ```"``` in front of it and close the file
+
 * Open any file in vim and you'll see the changes. (```vim ~/.bashrc```)
