@@ -27,3 +27,10 @@
 by removing the ```"``` in front of it and close the file
 
 * Open any file in vim and you'll see the changes. (```vim ~/.bashrc```)
+
+## Plugins used
+All plugins installed from [VimAwesome](https://vimawesome.com/)
+* Syntastic - Syntax checking for Vim
+* Airline - Bottom status line for Vim
+* NerdTree - Side bar for opening folders and files in Vim
+* Vim-colorschemes - Themeing for Vim
