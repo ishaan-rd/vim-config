@@ -1,4 +1,4 @@
-call plug#begin('~/.vim/plugged') 
+call plug#begin('~/.vim/plugged')
 
 Plug 'scrooloose/syntastic'
 Plug 'vim-airline/vim-airline'
@@ -14,6 +14,9 @@ set incsearch
 set cursorline
 set guifont=FiraCode
 set term=screen-256color
+set background=dark
 
 " colorscheme
-"colorscheme molokai
+"let g:gruvbox_termcolors=256
+"let g:gruvbox_contrast_dark='hard'
+"colorscheme gruvbox

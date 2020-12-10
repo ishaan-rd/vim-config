@@ -21,12 +21,14 @@
 
   > Close the .vimrc file
   :q
+  or
+  :wq (to write and quit)
   ```
 
-* Open the ~/.vimrc file again and uncomment the ```colorscheme molokai``` line
-by removing the ```"``` in front of it and close the file
+* Open the ~/.vimrc file again and uncomment all lines **after** the line containing
+```" colorscheme``` by removing the ```"``` in front of them and close the file
 
-* Open any file in vim and you'll see the changes. (```vim ~/.bashrc```)
+* Open any file in vim and you'll see the changes. (Example: ```vim ~/.bashrc```)
 
 ## Plugins used
 All plugins installed from [VimAwesome](https://vimawesome.com/)
