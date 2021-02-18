@@ -15,6 +15,7 @@ set cursorline
 set guifont=FiraCode
 set term=screen-256color
 set background=dark
+set colorcolumn=80
 
 " colorscheme
 "let g:gruvbox_termcolors=256
